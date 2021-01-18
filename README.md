@@ -1,2 +1,2 @@
-# Design-Pattern Project
+# Design-Pattern Project in CombinedDesignPatterns
 Challenges Java
